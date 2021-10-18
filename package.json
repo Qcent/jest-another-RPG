@@ -25,5 +25,8 @@
     "homepage": "https://github.com/Qcent/jest-another-RPG#readme",
     "devDependencies": {
         "jest": "^27.3.0"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.0"
     }
 }
