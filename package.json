@@ -1,0 +1,29 @@
+{
+    "name": "jest-another-rpg",
+    "version": "1.0.0",
+    "description": "a node.js OOP and TDD RPG experience",
+    "main": "app.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Qcent/jest-another-RPG.git"
+    },
+    "keywords": [
+        "OOP",
+        "TDD",
+        "Jest",
+        "Node.js",
+        "Game"
+    ],
+    "author": "Dave Quinn",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Qcent/jest-another-RPG/issues"
+    },
+    "homepage": "https://github.com/Qcent/jest-another-RPG#readme",
+    "devDependencies": {
+        "jest": "^27.3.0"
+    }
+}
